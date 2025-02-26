@@ -1,6 +1,6 @@
 "use client";
 
-import DominoGame from "./components/DominoGame";
+import DominoGame from "@/components/DominoGame";
 
 export default function Home() {
   return (
